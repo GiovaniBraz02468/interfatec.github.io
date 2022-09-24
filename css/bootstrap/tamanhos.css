@@ -1,0 +1,50 @@
+@media screen and (max-width: 500px) {
+    .foto-config-tamanho{
+        width: 120px;
+    }
+    .arre{
+        width: 200px;
+        background-color: aqua;
+    }
+  }
+
+@media screen and (max-width: 1406px) {
+    .arre{
+        width: 500px;
+        background-color: aqua;
+    }
+}
+
+@media screen and (max-width: 1203px) {
+    .arre{
+        width: 400px;
+        background-color: aqua;
+    }
+}
+
+@media screen and (max-width: 1203px) {
+    .arre{
+        width: 400px;
+        background-color: aqua;
+    }
+}
+
+@media screen and (max-width: 465px) {
+    .botao-zap{
+        margin: auto;
+        background-color: #00b932;
+        
+        width: 250px;
+        border-radius: 20px;
+    }
+
+    .linha-face{
+        margin: auto;
+        width: 250px;
+        margin-top: 15px;
+    }
+
+    .face-iinst{
+        width: 90px;
+    }
+  }
